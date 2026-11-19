@@ -44,6 +44,6 @@ There is no `.env.example`. You need your own Firebase project with Firestore.
 
 ## Notes
 
-College project, built with [Alwin Johnson](https://github.com/Alwin-Johnson), [Anna Sara Joji](https://github.com/asj327) and [Drupad Praveen](https://github.com/drupadpraveen).
+Finalist at the MecLabs Hackathon (2024). Built with [Alwin Johnson](https://github.com/Alwin-Johnson), [Anna Sara Joji](https://github.com/asj327) and [Drupad Praveen](https://github.com/drupadpraveen).
 
 Matching is random. Interests are saved but not used for matching yet, and the "college authentication" is the ID scan page, not a verified email check. No live deployment is linked.
